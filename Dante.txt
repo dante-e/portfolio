@@ -1,0 +1,14 @@
+<span id="a">hello!</span> 👋 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+my name is <!-- laglaglag --> <span id="b">dante esprit</span> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>i am looking for a full time dev role where i can gain mentorship and be part of a team that i can contribute to and grow with.</p><!-- bitlagbitlagbitlagbitlagbitlagbitlag --><p> my technical skills include <span id="a">html & css, javascript, typescript, react, nodejs, git, and some other dot js libraries.</span></p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong bing bong 
+
+check out some of my work below.
+<a id="k" href="link"> >>> view projects</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+you can have a look at my resume <a href="link">here!</a></p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+links to other professional profiles, here: <br> <a id="k" href="link1"> >>> linkedin </a> <br> <a id="k" href="link2"> >>> github</a>
+
+something about contacting me idk<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="Your email ID">dante.esprit@gmail.com</a>
+
+<p>poggers</p>
