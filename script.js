@@ -72,14 +72,14 @@ var Typer = {
 
   updLstChr: function () {
     var cont = this.content();
-
+/*
     if (cont.substring(cont.length - 1, cont.length) == '|')
       $('#console').html(
         $('#console')
           .html()
           .substring(0, cont.length - 1),
       );
-    else this.write('|'); // else write it
+    //else this.write('|'); // else write it*/
   },
 };
 
