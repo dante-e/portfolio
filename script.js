@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 100;
+Typer.speed = 10;
 Typer.file = 'Dante.txt';
 Typer.init();
 
